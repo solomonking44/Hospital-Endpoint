@@ -1,0 +1,14 @@
+{
+    "doctors": [
+        {
+            "name": "John Matumba",
+            "time": "07:30 AM",
+            "hospital": "pineValley"
+        },
+        {
+            "name": "Katale katie",
+            "time": "12:30 PM",
+            "hospital": "pineValley"
+        }
+    ]
+}

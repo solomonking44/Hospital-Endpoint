@@ -1,0 +1,14 @@
+{
+    "doctors": [
+        {
+            "name": "Kamasu Paul",
+            "time": "04:30 PM",
+            "hospital": "Grand Oak"
+        },
+        {
+            "name": "Allan Mayambala",
+            "time": "08:30 PM",
+            "hospital": "Grand Oak"
+        }
+    ]
+}
