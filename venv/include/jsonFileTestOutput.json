@@ -1,0 +1,15 @@
+{   
+"insurer": [ 
+     {
+    "data": {
+        "name": "Name",
+        "nameLast": "SureName"
+    }
+    },
+   {
+    "data": {
+        "name": "Name1",
+        "nameLast": "SureName1"
+    }
+}]
+}
